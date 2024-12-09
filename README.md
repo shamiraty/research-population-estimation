@@ -1,6 +1,7 @@
-# QUANTITATIVE RESEARCH
-# ESTIMATING POPULATION PARAMETERS
-# USING SAMPLE ESTIMATORS UNDER CONFIDENCE INTERVALS
+## QUANTITATIVE RESEARCH
+## ESTIMATING POPULATION PARAMETERS
+## USING SAMPLE ESTIMATORS UNDER CONFIDENCE INTERVALS
+## PYTHON PROGRAMMING LANGUAGE
 
 **Note**: Before beginning the analysis, ensure that your data is cleaned by removing any null values and outliers. You can refer to the previous tutorial for guidance on data cleaning: [Data Collection and Cleaning](https://github.com/shamiraty/data-collection-and-cleaning-).
 
