@@ -23,7 +23,7 @@ This study uses field-collected sample data to estimate the mean age of a popula
 | Sample Standard Deviation (Age)             | 14.08                  |
 | Population Size (N)                         | 60,000                 |
 
-**1.3 Final Estimated Population Mean**
+**1.3 Final Estimated Population Parameters**
 
 The estimated population mean lies within the following confidence interval:
 
